@@ -1,0 +1,17 @@
+﻿.env.local
+config/.env.local
+*.sqlite3
+*.db
+logs/
+data/
+downloads/
+output/
+test_run_dl/
+real_test_output/
+node_modules/
+.venv*/
+dist/
+*.mp4
+*.wav
+*.tar.zst
+*.zip
